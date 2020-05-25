@@ -1,0 +1,10 @@
+.date{
+	background: gray;
+	color: black;
+	padding: 2px 10px;
+	display: block;
+}
+
+hr{
+	border: 1px solid gray;
+}
